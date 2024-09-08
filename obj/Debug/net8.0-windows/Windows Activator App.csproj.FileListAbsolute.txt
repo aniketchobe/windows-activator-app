@@ -1,0 +1,19 @@
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\Windows Activator App_MarkupCompile.cache
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\Windows Activator App.g.resources
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\Windows Activator App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\Windows Activator App.AssemblyInfoInputs.cache
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\Windows Activator App.AssemblyInfo.cs
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\Windows Activator App.csproj.CoreCompileInputs.cache
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\bin\Debug\net8.0-windows\Windows Activator App.exe
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\bin\Debug\net8.0-windows\Windows Activator App.deps.json
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\bin\Debug\net8.0-windows\Windows Activator App.runtimeconfig.json
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\bin\Debug\net8.0-windows\Windows Activator App.dll
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\bin\Debug\net8.0-windows\Windows Activator App.pdb
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\Windows Activator App.dll
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\refint\Windows Activator App.dll
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\Windows Activator App.pdb
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\Windows Activator App.genruntimeconfig.cache
+C:\Users\Aniket Chobe\source\repos\Windows Activator App\Windows Activator App\obj\Debug\net8.0-windows\ref\Windows Activator App.dll
