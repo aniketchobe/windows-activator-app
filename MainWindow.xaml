@@ -48,7 +48,7 @@
         </ComboBox>
 
         <!-- Execute Button -->
-        <Button Content="Execute"
+        <Button Content="Start"
                 HorizontalAlignment="Left"
                 Margin="10,200,0,0"
                 VerticalAlignment="Top"
